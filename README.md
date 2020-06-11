@@ -1,2 +1,4 @@
 # test_git
-Just for workshop purpose, will be deleted
+Just for workshop, will be deleted
+
+Make some change
